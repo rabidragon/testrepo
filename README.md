@@ -1,1 +1,2 @@
-test
+Testing Pair Extraordinaire badge
+dsfdfs
