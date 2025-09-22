@@ -1,3 +1,1 @@
-Testing Pair Extraordinaire badge
-dsfdfsdfsf
-afsdfsdf
+Testing pair Extraordinaire badge
